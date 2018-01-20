@@ -1,1 +1,31 @@
 
+.header {
+  background-color: #e542f4;
+  text-align: center;
+  padding-bottom: 30px;
+  padding-top: 10px
+}
+.tagline {
+  text-align: center;
+  background: #ffeeff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.skills {
+  text-align: center;
+  background-color: #ffeeee;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.contact {
+  text-align: center;
+  background-color: #41d6f4;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+h1 {
+  font-size: 80px
+}
+h2 {
+  font-size: 35px
+}
